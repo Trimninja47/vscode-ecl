@@ -44,7 +44,7 @@
     "update": "npx npm-check-updates -u -t minor"
   },
   "dependencies": {
-    "@vscode/webview-ui-toolkit": "1.1.0"
+    "@vscode/webview-ui-toolkit": "1.2.1"
   },
   "devDependencies": {
     "@fluentui/react": "8.103.7",
